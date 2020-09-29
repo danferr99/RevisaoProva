@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NxM+mvqxznO4rY5COikNrGV21SvxMHSj8QFzTl6jyWog6QE+c7ZE27CWrbfEornZC8yI+W8bDgFLynTB6ZnycQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PICHAU\\Desktop\\TIMEFUTEBOL\\TimeFutebol\\TimeFutebol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PICHAU\\.nuget\\packages\\fluentvalidation\\9.2.2\\fluentvalidation.9.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
